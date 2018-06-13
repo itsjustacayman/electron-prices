@@ -12,7 +12,7 @@ git, check out the
 [guide to cloning a repository](https://help.github.com/articles/cloning-a-repository/).
 
 ```sh
-git clone https://github.com/electron/simple-samples
+git clone https://github.com/electron/simple-samples/prices
 ```
 
 Each folder contains a different app with its own `README.md` file
