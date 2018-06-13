@@ -1,0 +1,17 @@
+{
+  "name": "prices",
+  "version": "1.0.0",
+  "description": "Updated Version of Electron's Sample Prices Program",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron app.js"
+  },
+  "devDependencies": {
+    "electron": "^1.8.3"
+  },
+  "dependencies": {
+    "papaparse": "^4.3.7"
+  },
+  "author": "Spencer Dixon",
+  "license": "MIT"
+}
